@@ -1,0 +1,17 @@
+body{
+    background-color:yellowgreen;
+}
+
+li{
+    float: left;
+    font-size: x-large;
+    background-color: aqua;
+    padding-left: 100px;
+    padding-right: 30px;
+}
+li a{
+   text-decoration: none;
+}
+menu li a{
+    font-size: x-large;
+}
